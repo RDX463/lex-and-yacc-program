@@ -39,7 +39,7 @@ How to run lex and yacc code together in linux terminal:
 
 4.Type - yacc file.y 
 
-5.Type - cc lex.yy.c y.tab.h -ll 
+5.Type - cc lex.yy.c y.tab.c -ll 
 
 6.Type - ./a.out The lex and yacc will run succesfully now
 
