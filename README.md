@@ -12,7 +12,7 @@ How to run lex code in linux terminal:
 1.Open the directory of the .l file
 2.Open the terminal in that directory
 3.Type in terminal - lex <file_name>.l
-4.Then type - cc.lex.yy.c -ll
+4.Then type - cc lex.yy.c -ll
 5.After that type - ./a.out
 ** lex Code will start running in terminal **
 
